@@ -1,0 +1,1 @@
+<img src="../../resources/RBAC_diagram.png"></img>
