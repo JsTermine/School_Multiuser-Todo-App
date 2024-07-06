@@ -14,6 +14,7 @@ export async function deleteContent(id) {
 
   const EXAMPLE = "Example";
   const RebaseAndMerge = "Example";
+  const RebaseAndMergeCommitTwo = "Example";
 
   const token = JSON.parse(localStorage.getItem("user")).accessToken;
 
