@@ -13,6 +13,7 @@ const client = axios.create({
 export async function deleteContent(id) {
 
   const EXAMPLE = "Example";
+  const RebaseAndMerge = "Example";
 
   const token = JSON.parse(localStorage.getItem("user")).accessToken;
 
